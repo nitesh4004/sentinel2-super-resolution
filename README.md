@@ -5,6 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Boost Sentinel-2 satellite imagery resolution from 10m to **1 meter** using Gamma Earth's S2DR3 AI model.
+<img width="1917" height="913" alt="image" src="https://github.com/user-attachments/assets/e0328ae8-9adf-4eae-8c61-a5abaa45c9f4" />
 
 ## ✨ Features
 
