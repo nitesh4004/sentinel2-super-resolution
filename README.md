@@ -205,15 +205,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 **Nitesh Kumar** - Geospatial Data Scientist
 
 - GitHub: [@nitesh4004](https://github.com/nitesh4004)
-- Email: nitesh.kumar@swan.co.in
-
-## 🙏 Acknowledgments
-
-- [Gamma Earth](https://gamma.earth) for the S2DR3 super-resolution model
-- [Streamlit](https://streamlit.io) for the amazing web framework
-- [ESA](https://www.esa.int/) for Sentinel-2 satellite data
-- [SWAN](https://swan.co.in) for support and resources
-
+- 
 ---
 
 Made with ❤️ for geospatial enthusiasts
